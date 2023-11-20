@@ -175,7 +175,7 @@ export default function IngestionForm() {
 
               <div className="sm:grid sm:grid-cols-3 sm:items-start sm:gap-4 sm:py-6">
                 <label className="block text-sm font-medium leading-6 text-gray-900 sm:pt-1.5">
-                  Latitude
+                  Latitude *
                 </label>
                 <div className="mt-2 sm:col-span-2 sm:mt-0">
                   <input
@@ -190,7 +190,7 @@ export default function IngestionForm() {
 
               <div className="sm:grid sm:grid-cols-3 sm:items-start sm:gap-4 sm:py-6">
                 <label className="block text-sm font-medium leading-6 text-gray-900 sm:pt-1.5">
-                  Longitude
+                  Longitude *
                 </label>
                 <div className="mt-2 sm:col-span-2 sm:mt-0">
                   <input
